@@ -11,3 +11,7 @@ npm run dev
 ## Triển khai Vercel
 - Kết nối với repo GitHub
 - Deploy bằng 1 click
+
+# reflex-core-chatbot
+Reflex Core AI Chatbot - Self-hosted assistant powered by metadata and realtime reflex learning system.
+
